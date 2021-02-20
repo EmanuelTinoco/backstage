@@ -1,5 +1,19 @@
 # @backstage/core
 
+## 0.6.3
+
+### Patch Changes
+
+- e799e74d4: Fix `OverflowTooltip` cutting off the bottom of letters like "g" and "y".
+- 1407b34c6: More informative error message for missing ApiContext.
+- 9615e68fb: Forward link styling of `EntityRefLink` and `EnriryRefLinks` into the underling
+  `Link`.
+- 49f9b7346: Deprecate `type` of `ItemCard` and introduce new `subtitle` which allows passing
+  react nodes.
+- 2c1f2a7c2: Introduced generic OverflowTooltip component for cases where longer text needs to be truncated with ellipsis and show hover tooltip with full text. This is particularly useful in the cases where longer description text is rendered in table. e.g. CatalogTable and ApiExplorerTable.
+- Updated dependencies [1407b34c6]
+  - @backstage/core-api@0.2.11
+
 ## 0.6.2
 
 ### Patch Changes

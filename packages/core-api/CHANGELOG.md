@@ -1,5 +1,11 @@
 # @backstage/core-api
 
+## 0.2.11
+
+### Patch Changes
+
+- 1407b34c6: More informative error message for missing ApiContext.
+
 ## 0.2.10
 
 ### Patch Changes

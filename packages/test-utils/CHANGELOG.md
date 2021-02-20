@@ -1,5 +1,13 @@
 # @backstage/test-utils
 
+## 0.1.8
+
+### Patch Changes
+
+- dc12852c9: Allow `ExternalRouteRef` instances to be passed as a route ref to `mountedRoutes`.
+- Updated dependencies [1407b34c6]
+  - @backstage/core-api@0.2.11
+
 ## 0.1.7
 
 ### Patch Changes

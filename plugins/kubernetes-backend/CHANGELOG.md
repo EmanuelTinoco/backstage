@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.2.7
+
+### Patch Changes
+
+- a70af22a2: update kubernetes plugin backend function to use classes
+- Updated dependencies [bad21a085]
+  - @backstage/catalog-model@0.7.2
+
 ## 0.2.6
 
 ### Patch Changes

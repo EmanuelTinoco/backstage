@@ -1,5 +1,11 @@
 # @backstage/catalog-model
 
+## 0.7.2
+
+### Patch Changes
+
+- bad21a085: Implement annotations for customising Entity URLs in the Catalog pages.
+
 ## 0.7.1
 
 ### Patch Changes
